@@ -136,7 +136,7 @@ bool HashTable::remove(int key) {
 }
 
 int main(int argc, char** argv) {
-	//BURAYA BAKMAYA BÝLÝRSÝN DENEDÝÐÝM KISIMLAR
+	//BURAYA BAKMAYABÝLÝRSÝN DENEDÝÐÝM KISIMLAR
     HashTable hashTable;
     hashTable.add(5);
     hashTable.add(15);
